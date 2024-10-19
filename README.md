@@ -1,6 +1,8 @@
 # Airbnb Analysis
 
-![png (2)](https://github.com/user-attachments/assets/21845985-c9c6-44a1-9b79-aa972c2fa0a2)
+
+![png (4)](https://github.com/user-attachments/assets/fe8bfeb0-be86-4339-9ef0-269d95db3fb0)
+
 
 
 ## Overview
